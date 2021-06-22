@@ -1,4 +1,7 @@
 ## Prime Game 
+
+### Please note: The Solution posted in github is uploaded after coding contest is ended to avoid palagrism . The above code passed all test cases and built by own. Feedbacks are welcome.
+
 Rax, a school student, was bored at home in the pandemic. He wanted to play but there was no one to play with. He was doing some mathematics questions including prime numbers and thought of creating a game using the same. After a few days of work, he was ready with his game. He wants to play the game with you.
 
 
@@ -94,4 +97,3 @@ Test Case 4: [ 19 - 11 ] = 8
 Test Case 5: The difference would be 0 since there is only one prime number in the given range.
 
 
-### The Solution posted in github is uploaded after coding contest is ended to avoid palagrism . The above code passed all test cases and built by own. Feedbacks are welcome.
