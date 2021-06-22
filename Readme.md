@@ -92,3 +92,6 @@ Test Case 3: No prime number in the given range. Output = -1
 Test Case 4: [ 19 - 11 ] = 8
 
 Test Case 5: The difference would be 0 since there is only one prime number in the given range.
+
+
+### The Solution posted in github is uploaded after coding contest is ended to avoid palagrism . The above code passed all test cases and built by own. Feedbacks are welcome.
